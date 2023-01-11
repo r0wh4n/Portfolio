@@ -1,0 +1,3 @@
+# Portfolio-Website
+
+###A portfolio website is a personal website that showcases your skills, experience, and accomplishments. It is a way to showcase your work and highlight your strengths to potential employers or clients. A portfolio website typically includes information about your education, work history, and relevant skills, as well as examples of your work, such as writing samples, photographs, or design projects. You might consider mentioning your portfolio website on your resume if you have a strong online presence and want to provide a more comprehensive overview of your abilities and achievements.
