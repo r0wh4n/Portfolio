@@ -18,7 +18,7 @@ Responsive layout that looks great on all devices.
 
 1. Clone the repository using the following command:
 
-git clone git@github.com:r0wh4n/Portfolio.git
+git clone https://github.com/r0wh4n/Portfolio.git
 
 
 2. Open the index.html file in your browser.
