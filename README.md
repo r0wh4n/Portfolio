@@ -1,3 +1,28 @@
-# Portfolio-Website
+# Portfolio Website
 
-###A portfolio website is a personal website that showcases your skills, experience, and accomplishments. It is a way to showcase your work and highlight your strengths to potential employers or clients. A portfolio website typically includes information about your education, work history, and relevant skills, as well as examples of your work, such as writing samples, photographs, or design projects. You might consider mentioning your portfolio website on your resume if you have a strong online presence and want to provide a more comprehensive overview of your abilities and achievements.
+This is a simple portfolio website that showcases my skills, projects, and experience as a Full Stack Developer. The website is built using HTML and CSS.
+
+## Languages Used
+
+HTML , CSS 
+
+## Features
+
+Simple and clean design.
+
+Easy to navigate.
+
+Responsive layout that looks great on all devices.
+
+## Installation
+
+1. Clone the repository using the following command:
+
+git clone git@github.com:r0wh4n/Portfolio.git
+
+
+2. Open the index.html file in your browser.
+
+## Usage
+
+Feel free to use this website as a template for your own portfolio. You can modify the HTML and CSS files to fit your needs.
